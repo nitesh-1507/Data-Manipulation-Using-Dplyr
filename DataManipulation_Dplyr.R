@@ -2,7 +2,16 @@ library(dplyr)
 
 ## Data manipulation - Time series using Dplyr
 
-## Variable description
+## Basic dplyr functions :
+   # pipe
+   # count
+   # filter
+   # groupby
+   # summarise
+   # mutate
+   # arrange
+
+## Data-Set Variable description
 ## id1 - Wind speed
 ## id2 - Nacelle position
 ## id3 - Wind Direction
