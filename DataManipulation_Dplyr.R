@@ -11,6 +11,10 @@ library(dplyr)
    # mutate
    # arrange
 
+## Basic R functions
+   # as.POSIXct
+   # cut
+
 ## Data-Set Variable description
 ## id1 - Wind speed
 ## id2 - Nacelle position
